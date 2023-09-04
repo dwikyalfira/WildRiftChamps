@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">WildRiftChamps</string>
+    <string name="champion_name">Champion</string>
+    <string name="champion_role">Role</string>
+    <string name="champion_region">Region</string>
+    <string name="champion_description"></string>
+
+    <string name="grid">Grid</string>
+    <string name="list">List</string>
+    <string name="about">About</string>
+    <string name="description">Description</string>
+    <string name="Share">Share!</string>
+    <string name="name">Muhammad Dwiky Alfira</string>
+    <string name="email">dwikyalfira1@gmail.com</string>
+
+    <string-array name="data_name">
+        <item>Annie</item>
+        <item>Aurelion Sol</item>
+        <item>Garen</item>
+        <item>Akali</item>
+        <item>Kai\'Sa</item>
+        <item>Master Yi</item>
+        <item>Senna</item>
+        <item>Teemo</item>
+        <item>Yasuo</item>
+        <item>Yuumi</item>
+        <item>Zoe</item>
+    </string-array>
+
+    <string-array name="data_role">
+        <item>Role: Mage</item>
+        <item>Role: Mage</item>
+        <item>Role: Fighter</item>
+        <item>Role: Assassin</item>
+        <item>Role: Marksman</item>
+        <item>Role: Assassin</item>
+        <item>Role: Marksman</item>
+        <item>Role: Mage</item>
+        <item>Role: Fighter</item>
+        <item>Role: Support</item>
+        <item>Role: Mage</item>
+    </string-array>
+
+    <string-array name="data_region">
+        <item>Region: Runeterra</item>
+        <item>Region: Runeterra</item>
+        <item>Region: Demacia</item>
+        <item>Region: Ionia</item>
+        <item>Region: The Void</item>
+        <item>Region: Ionia</item>
+        <item>Region: Runeterra</item>
+        <item>Region: Bandle City</item>
+        <item>Region: Ionia</item>
+        <item>Region: Bandle City</item>
+        <item>Region: Targon</item>
+    </string-array>
+
+    <integer-array name="data_photo_icon">
+        <item>@drawable/annie_icon</item>
+        <item>@drawable/aurelionsol_icon</item>
+        <item>@drawable/garen_icon</item>
+        <item>@drawable/akali_icon</item>
+        <item>@drawable/kaisa_icon</item>
+        <item>@drawable/masteryi_icon</item>
+        <item>@drawable/senna_icon</item>
+        <item>@drawable/teemo_icon</item>
+        <item>@drawable/yasuo_icon</item>
+        <item>@drawable/yuumi_icon</item>
+        <item>@drawable/zoe_icon</item>
+    </integer-array>
+
+    <string-array name="data_description">
+        <item>Annie is a mage with a simple yet powerful kit. She can stun enemies with her passive, and her ultimate, "Summon: Tibbers," releases a giant bear that deals area damage.</item>
+        <item>Aurelion Sol is a cosmic dragon mage who deals sustained area damage with his stars. He can fly across the map and control space with his abilities.</item>
+        <item>Garen is a durable melee fighter known for his tankiness and high damage output. His passive, "Perseverance," allows him to regenerate health out of combat.</item>
+        <item>Akali is an agile assassin who excels at quickly eliminating single targets. She can dash around the battlefield, becoming invisible and dealing high burst damage with her abilities.</item>
+        <item>Kai\'Sa is a versatile marksman who can evolve her abilities based on the type of damage she deals. She can go for either a traditional AD build or an AP build.</item>
+        <item>Master Yi is a melee assassin who excels at dealing massive damage in a short amount of time. His ultimate, "Highlander," resets his abilities on takedowns, allowing for chain kills.</item>
+        <item>Senna is a ranged support marksman. She can deal damage while providing healing and crowd control for her team. Her passive, "Absolution," grants her bonus range and damage.</item>
+        <item>Teemo is a yordle champion known for his versatility. He can control the map with his mushrooms and harass enemies with his poison attacks.</item>
+        <item>Yasuo is a melee fighter with high mobility and damage output. His wind wall can block projectiles, and he excels in close combat situations.</item>
+        <item>Yuumi is a support champion who attaches herself to an ally, providing them with healing, protection, and bonus abilities. She can\'t move on her own but can jump between teammates.</item>
+        <item>Zoe is a burst mage with a playful and mischievous playstyle. She can pick up summoner spells and use them to her advantage, making her unpredictable in fights.</item>
+    </string-array>
+
+    <integer-array name="data_photo_bg">
+        <item>@drawable/annie_bg</item>
+        <item>@drawable/aurelionsol_bg</item>
+        <item>@drawable/garen_bg</item>
+        <item>@drawable/akali_bg</item>
+        <item>@drawable/kaisa_bg</item>
+        <item>@drawable/masteryi_bg</item>
+        <item>@drawable/senna_bg</item>
+        <item>@drawable/teemo_bg</item>
+        <item>@drawable/yasuo_bg</item>
+        <item>@drawable/yuumi_bg</item>
+        <item>@drawable/zoe_bg</item>
+    </integer-array>
+
+
+</resources>
